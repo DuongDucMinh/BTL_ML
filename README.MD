@@ -154,7 +154,7 @@ Dự án được thực hiện dựa trên sự hỗ trợ của các thư vi�
     * [Stratified K-Fold Cross Validation (Scikit-learn Documentation)](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.StratifiedKFold.html)
     * [Kaggle Ensembling Guide](https://www.kaggle.com/code/vipulgandhi/a-comprehensive-guide-to-ensemble-learning) - Cơ sở lý thuyết cho việc kết hợp (Blending) các mô hình.
 4.  **Các tài liệu học thuật về thiên văn học:**
-    * [MALLORN: Many Artificial LSST Lightcurves based on Observations of Real Nuclear transients](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.StratifiedKFold.html)
+    * [MALLORN: Many Artificial LSST Lightcurves based on Observations of Real Nuclear transients](https://arxiv.org/abs/2512.04946)
 
 ## Slide và thuyết trình của nhóm
 [Drive](https://drive.google.com/drive/folders/1RBgrwcAhsp87xaR9yWbozhulZUBXSy8L?usp=drive_link) - Link drive.
